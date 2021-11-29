@@ -1,0 +1,60 @@
+{
+  "files": {
+    "decisao03.py": [
+      {
+        "id": "cb2e64a5-86af-4916-a707-a5740d5e55c6",
+        "line": 1,
+        "version": 232,
+        "index": 0
+      }
+    ],
+    "main.py": [
+      {
+        "id": "7ee86276-1cce-44c7-83d6-729f92218b9c",
+        "line": 1,
+        "version": 6696,
+        "index": 0
+      }
+    ],
+    "recursividade/exer02.py": [
+      {
+        "id": "7a1c7fe6-e25f-4d16-8b36-780ec65e4475",
+        "line": 1,
+        "version": 131,
+        "index": 0
+      }
+    ],
+    "recursividade/exer04.py": [
+      {
+        "id": "a47bc762-4bee-40e1-92f3-385137b44784",
+        "line": 1,
+        "version": 73,
+        "index": 0
+      }
+    ],
+    "repet01.py": [
+      {
+        "id": "f7f31a58-545a-4bc3-b410-f96f40ce75a4",
+        "line": 1,
+        "version": 67,
+        "index": 0
+      }
+    ],
+    "strings/exer01.py": [
+      {
+        "id": "e836c182-6223-4def-bd82-ebd70b9425d2",
+        "line": 12,
+        "version": 100,
+        "index": 254
+      }
+    ],
+    "strings/exer04.py": [
+      {
+        "id": "72ae1042-d8e6-44e1-9ea5-7fb8b1621e73",
+        "line": 1,
+        "version": 130,
+        "index": 0
+      }
+    ]
+  }
+}
