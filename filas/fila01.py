@@ -1,44 +1,29 @@
 class Fila:
+  #construtor
     #inicia vazia
     def __init__(self):
-        self.fila = []
+        self.fila =  [1,2,3]
+       
         #colocar algo
     def inseri(self, n):
         self.fila.append(n)
-        #excluir primeiro elementpo
+        #excluir primeiro elemento
     def excluir(self):
         if not self.vazia():
+           #remover do inicio
             del self.fila[0]
 
-        #ver tamho
+        #ver tamanho
     def tamanho(self):
         return len(self.fila)
-
+#ver se esta vazia
     def vazia(self):
         return self.tamanho() == 0
-
-
 fila = Fila()
 print(fila.vazia)
-class Fila:
-    #inicia vazia
-    def __init__(self):
-        self.fila = []
-        #colocar algo
-    def inseri(self, n):
-        self.fila.append(n)
-        #excluir primeiro elementpo
-    def excluir(self):
-        if not self.vazia():
-            del self.fila[0]
 
-        #ver tamho
-    def tamanho(self):
-        return len(self.fila)
+ #def tamanho(regiao1):
+      #return len(regiao1.matriz)
 
-    def vazia(self):
-        return self.tamanho() == 0
-
-
-fila = Fila()
-print(fila.vazia)
+   #def vazia(regiao1):
+    #  return regiao1.tamanho()==0
