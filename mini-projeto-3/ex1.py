@@ -84,3 +84,5 @@ def RetirarVeic():
 
 Inserir()
 PosicaoVeic()
+
+    
