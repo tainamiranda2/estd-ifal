@@ -9,4 +9,5 @@
 <p>Listas ordenadas e não ordenadas<p/>
 <p>Pesquisa<p/>
 <p>Mini projeto - Mão de cartas<p/>
-<p>Mina projeto hasshing<p/>
+<p>Mina projeto - hashing<p/>
+<p>Mini projeto - pesquisa<p/>
